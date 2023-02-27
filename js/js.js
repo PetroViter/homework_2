@@ -7,20 +7,24 @@ switch (select) {
     case '+':
         results = num1 + num2;
         alert(results);
+        console.log(results)
             break;
 
     case '-':
         results = num1 - num2;
         alert(results);
+        console.log(results)
             break;
 
     case '/':
         results = num1 / num2;
         alert(results);
+        console.log(results)
             break;
 
     case '*':
         results = num1 * num2;
         alert(results);
+        console.log(results)
             break;
 }
